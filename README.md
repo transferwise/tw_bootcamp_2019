@@ -51,8 +51,8 @@ Your task is to read in the two files, creating a resulting file that looks like
 
 ## Submitting your solution and source files
 
- - Download this template
- - Implement your solution **in any language**
- - Share your source code and the solution file as `links.csv` within a zip file
- - Upload the zip in GreenHouse
+- Download this template
+- Implement your solution in any language (we prefer Java if possible)
+- Share your source code and the solution file as `links.csv` within a zip file. **Please make sure you save it as a valid CSV file!** :slightly_smiling_face:
+- Upload the zip using the upload button you should see at the end of the test
  
