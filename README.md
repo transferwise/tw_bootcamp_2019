@@ -56,3 +56,4 @@ Your task is to read in the two files, creating a resulting file that looks like
 - Share your source code and the solution file as `links.csv` within a zip file. **Please make sure you save it as a valid CSV file!** :slightly_smiling_face:
 - Upload the zip using the upload button you should see at the end of the test
  
+‼️ THE DATA IN THIS REPOSITORY IS FAKE AND GENERATED FOR THE EXERCISE NOT ACTUALL CUSTOMER DATA‼️
